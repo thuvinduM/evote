@@ -1,4 +1,4 @@
-# Electronic Voting System Using Fingerprint
+![Untitled Sketch](https://github.com/user-attachments/assets/9d0d9a64-8051-4946-a872-c2d7d75d0f86)# Electronic Voting System Using Fingerprint
 
 ## Overview
 This project is a **biometric-based electronic voting system** that ensures **secure, transparent, and efficient** voting. It authenticates voters using their **fingerprints**, prevents **duplicate voting**, and stores votes securely in EEPROM. The system provides **real-time vote counting** and a user-friendly interface with an **LCD display** and **button-based voting mechanism**.
@@ -63,3 +63,4 @@ This project is a **biometric-based electronic voting system** that ensures **se
 ## License
 This project is open-source. Feel free to modify and improve it for educational and research purposes.
 
+![Untitled Sketch](https://github.com/user-attachments/assets/b60498a3-b4a0-42a6-85f8-6f4d04e231de)
