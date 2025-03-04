@@ -1,5 +1,3 @@
-![Untitled Sketch](https://github.com/user-attachments/assets/9d0d9a64-8051-4946-a872-c2d7d75d0f86)
-
 # Electronic Voting System Using Fingerprint
 
 ## Overview
